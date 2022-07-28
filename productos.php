@@ -21,7 +21,7 @@ $listaProductos = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
         
     <div class="col-md-3">
         <div class="card" style="width:18rem;">
-            <img src="./img/<?php echo $producto['imagen']; ?>" class="card-img-top" alt="...">
+            <img src="./img/<?php echo $producto['imagen']; ?>" class="clase-imagen-producto" alt="...">
             <div class="card-body">
                 <h5 class="card-title text-center"><?php echo $producto['nombre']; ?></h5>
 
@@ -37,6 +37,10 @@ $listaProductos = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
     </div>
 </div>
 
+<br><br><br>
 
+<div class="bg-dark p-5">
+        <footer class="text-center text-white">Todos los derechos reservados - Cafe</footer>
+    </div>
 
 <?php include("template/pie.php"); ?>

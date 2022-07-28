@@ -30,6 +30,10 @@
                 </li>
                 
                 <li class="nav-item">
+                    <a class="nav-link" href="post.php">Post</a>
+                </li>
+
+                <li class="nav-item">
                     <a class="nav-link" href="nosotros.php">Nosotros</a>
                 </li>
                 

@@ -51,7 +51,7 @@
                     <div class="card-img-overlay">
                         <h5 class="card-title">titulo 1</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="card-img-overlay">
                         <h5 class="card-title">titulo 2</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -78,11 +78,11 @@
             <div class="col-md-4">
                 <div class="padre">
                     <article>
-                    <h3 class="text-center">CAFE CLASSIC</h3>
-                    
-                    <p class="">The unmistakable taste and aroma that we all know and love is still as good as ever. 
-                        Our signature coffee has a medium-dark roast that gives it a full flavour and wonderfully 
-                        invigorating taste.</p>
+                        <h3 class="text-center">CAFE CLASICO</h3>
+
+                        <p class="parrafo-tercer">
+                            El inconfundible sabor y aroma que todos conocemos y amamos sigue siendo tan bueno como siempre. 
+                            Nuestro café de autor tiene un tostado medio oscuro que le da un sabor completo y un sabor maravillosamente vigorizante.</p>
                     </article>
                 </div>
             </div>
